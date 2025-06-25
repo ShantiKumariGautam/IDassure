@@ -100,7 +100,7 @@ IDAssure simplifies identity verification by allowing users to upload their Aadh
 
 | Upload Aadhar & Selfie | Result Page | Dashboard |
 |------------------------|-------------|-----------|
-| ![Upload](./screenshots/upload.png) | ![Result](./screenshots/result.png) | ![Dashboard]([./screenshots/dashboard.png](https://github.com/ShantiKumariGautam/IDASsure-by-Team-Pretty-Pixels-/blob/main/dashboard.jpg)) |
+| ![Upload]((https://github.com/ShantiKumariGautam/IDASsure-by-Team-Pretty-Pixels-/blob/main/adhar%20and%20selfie%20upload.jpg)) | ![Result](./screenshots/result.png) | ![Dashboard]([./screenshots/dashboard.png](https://github.com/ShantiKumariGautam/IDASsure-by-Team-Pretty-Pixels-/blob/main/dashboard.jpg)) |
 
 ---
 
