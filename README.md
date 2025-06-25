@@ -15,7 +15,6 @@ YouTube Tutorial: [https://youtu.be/0k3FhwTyRK4](https://youtu.be/0k3FhwTyRK4)
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 - [Installation Guide](#installation-guide)
 - [Future Scope](#future-scope)
 - [About the Team](#about-the-team)
@@ -96,11 +95,6 @@ IDAssure simplifies identity verification by allowing users to upload their Aadh
 
 ---
 
-## Screenshots
-
-| Upload Aadhar & Selfie | Result Page | Dashboard |
-|------------------------|-------------|-----------|
-| ![Upload]((https://github.com/ShantiKumariGautam/IDASsure-by-Team-Pretty-Pixels-/blob/main/adhar%20and%20selfie%20upload.jpg)) | ![Result](./screenshots/result.png) | ![Dashboard]([./screenshots/dashboard.png](https://github.com/ShantiKumariGautam/IDASsure-by-Team-Pretty-Pixels-/blob/main/dashboard.jpg)) |
 
 ---
 
