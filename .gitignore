@@ -7,24 +7,31 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# Dependency directories
+node_modules/
 
+# Build output
+dist/
+dist-ssr/
 
+# Environment variables
+.env
+
+# Editor folders
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+# OS files
 .DS_Store
+
+# Misc IDE files
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
 
+# Python virtual environment
 venv/
-node_modules/
-dist/
-.env
-.DS_Store
+
