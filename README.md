@@ -8,7 +8,7 @@ YouTube Tutorial: [https://youtu.be/0k3FhwTyRK4](https://youtu.be/0k3FhwTyRK4)
 
 ---
 <p align="center">
-  <img src="IDAssure.jpg" width="300"/>
+  <img src="IDAssure.jpg" width="600"/>
 </p>
 
 ---
