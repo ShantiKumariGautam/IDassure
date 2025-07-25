@@ -7,33 +7,9 @@ Deployed here: [https://ida-ssure-by-team-pretty-pixels.vercel.app](https://ida-
 YouTube Tutorial: [https://youtu.be/0k3FhwTyRK4](https://youtu.be/0k3FhwTyRK4)
 
 ---
-## Known Constraints 🔴
-
-This application is hosted on **Streamlit Community Cloud**, which may occasionally experience the following limitations:
-
-- **Cold Starts**: The app may take a few seconds to load initially after a period of inactivity.
-- **Manual Reboot**: Due to platform constraints, a manual reboot from the dashboard might be required in rare cases.
-- **Session Expiry**: If left idle for too long, the app session may expire and require a page refresh.
-
-These are known platform-related behaviors and **not bugs** in the application logic.  
-> **If the app doesn't load or shows an error**, it is most likely because the server has gone idle.
-
----
-
-# Solution 🟢
-
- For a seamless experience, we recommend:
-- Refreshing/Reloading the page (sometimes twice).
-- Waiting a few seconds if the app doesn't load immediately.
-- Avoiding long periods of inactivity during use.
-
-If the issue persists, feel free to contact directly to reboot the app.
-
-**Contact:** [shanti047btece22@igdtuw.ac.in](mailto:shanti047btece22@igdtuw.ac.in)
-
-Thank you for your understanding and cooperation.
-
-
+<p align="center">
+  <img src="IDAssure.jpg" width="300"/>
+</p>
 
 ---
 
