@@ -33,10 +33,6 @@ IDAssure simplifies identity verification by allowing users to upload their Aadh
 
 ---
 
-## Live Demo
-
-- Web App: [https://ida-ssure-by-team-pretty-pixels.vercel.app](https://ida-ssure-by-team-pretty-pixels.vercel.app)
-
 ---
 
 ## Features
