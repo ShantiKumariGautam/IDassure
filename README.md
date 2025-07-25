@@ -33,8 +33,6 @@ IDAssure simplifies identity verification by allowing users to upload their Aadh
 
 ---
 
----
-
 ## Features
 
 - Face matching using MTCNN and FaceNet
